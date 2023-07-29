@@ -19,6 +19,7 @@ img {
 
 .slide {
   display: flex;
+  /* transition: 0.3s; */
 }
 
 .slide li {
@@ -28,6 +29,6 @@ img {
   margin: 0 20px;
 }
 
-.slide {
-  transform: translate3d(-4040px, 0px, 0px);
-}
+/* .slide {
+  transform: translate3d(0px, 0px, 0px);
+} */
